@@ -1,2 +1,3 @@
 # mycollege
-This is my repository
+This is my first repository
+Author:-Deepika Mor
